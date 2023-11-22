@@ -1,0 +1,3 @@
+function clickButton (){
+//code here
+}
