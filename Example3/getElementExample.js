@@ -1,4 +1,4 @@
 function changeText() {
-    let element = document.getElementById("myHeading");
-    element.innerHTML = "Hello JavaScript!";
+    let elementH2 = document.getElementById("myHeading");
+    elementH2.innerHTML = "Hello JavaScript!";
 }
